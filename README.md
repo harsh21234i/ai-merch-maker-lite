@@ -65,9 +65,8 @@ AI-Merch-Maker-Lite/
 
 ---
 
-## 🧪 Sample Output
+##  Sample Output
 
->>>>>>> 8f2f4aa (done)
 ```json
 {
   "title": "Neon Wolf Cap",
