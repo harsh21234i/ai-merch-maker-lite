@@ -17,4 +17,4 @@ const mockupData = {
 };
 
 fs.writeFileSync("mockup_result.json", JSON.stringify(mockupData, null, 2));
-console.log("✅ Mockup generated and saved to mockup_result.json");
+console.log(" Mockup generated and saved to mockup_result.json");

@@ -91,7 +91,7 @@ shopify_payload = {
     }
 }
 
-print("\n🛒 Sending product to Shopify...")
+print("\n Sending product to Shopify...")
 shopify_url = f"https://{SHOPIFY_STORE_URL}/admin/api/2023-04/products.json"
 shopify_response = requests.post(shopify_url, headers=headers, json=shopify_payload)
 
